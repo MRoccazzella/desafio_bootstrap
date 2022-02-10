@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+main{
+    height: max-content;
+    width: 100vw;
+}
+
+h1{
+    width: 50%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 50px;
+}
+
+.fotosGatos{
+    width: 400px;
+    height: 350px;
+}
+.formulario{
+    width: 40%;
+    height: max-content;
+    margin-left: 30%;
+    border: solid 5px white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
